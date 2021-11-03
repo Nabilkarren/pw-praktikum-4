@@ -1,0 +1,36 @@
+caption {
+    font-weight: light;
+    font-family: gilroy;
+    color : white;
+}
+
+table { 
+	width: 750px; 
+	border-collapse: collapse; 
+	margin:50px auto;
+	}
+
+tr {
+    background : rgb(233, 233, 233);
+}
+
+th { 
+	background: #2a2b2c; 
+	color: white; 
+	font-weight: bold; 
+    font-family: gilroy;
+	}
+
+td, th { 
+	padding: 10px; 
+	border: 2px solid rgb(133, 47, 47); 
+	text-align: left; 
+	font-size: 18px;
+	font-family: gilroy;
+	}
+
+h5 {
+	text-align: center; 
+	font-family: gilroy;
+	font-size: 20px;
+}
